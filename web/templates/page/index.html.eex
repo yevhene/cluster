@@ -1,0 +1,5 @@
+<div class="jumbotron intro">
+  <h2><%= gettext "Welcome" %></h2>
+  <%= img_tag "images/intro.jpg" %>
+  <p><%= gettext "Coming soon..." %></p>
+</div>

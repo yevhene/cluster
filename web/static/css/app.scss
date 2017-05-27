@@ -1,0 +1,11 @@
+@import "bootstrap";
+
+.alert:empty {
+  display: none;
+}
+
+.intro {
+  img {
+    max-width: 100%;
+  }
+}
