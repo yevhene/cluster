@@ -12,7 +12,7 @@ msgstr ""
 
 #: web/templates/layout/app.html.eex:10 web/templates/layout/app.html.eex:20
 msgid "Cluster"
-msgstr "Центральний Вінницький ИТ-Кластер"
+msgstr "Центральний Вінницький ІТ-Кластер"
 
 #: web/templates/page/index.html.eex:2
 msgid "Welcome"
