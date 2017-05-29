@@ -21,3 +21,7 @@ msgstr "Привіт"
 #: web/templates/page/index.html.eex:4
 msgid "Coming soon..."
 msgstr "Аннушка еще не пролила масло..."
+
+#: web/templates/page/index.html.eex:4
+msgid "In progress..."
+msgstr "Далі буде..."

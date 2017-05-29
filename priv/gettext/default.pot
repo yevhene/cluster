@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 
-#: web/templates/layout/app.html.eex:10 web/templates/layout/app.html.eex:20
+#: web/templates/layout/app.html.eex:10 web/templates/layout/app.html.eex:17
 msgid "Cluster"
 msgstr ""
 
@@ -19,5 +19,5 @@ msgid "Welcome"
 msgstr ""
 
 #: web/templates/page/index.html.eex:4
-msgid "Coming soon..."
+msgid "In progress..."
 msgstr ""

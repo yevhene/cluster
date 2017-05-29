@@ -1,5 +1,5 @@
 <div class="jumbotron intro">
   <h2><%= gettext "Welcome" %></h2>
-  <%= img_tag "images/intro.jpg" %>
-  <p><%= gettext "Coming soon..." %></p>
+  <%= img_tag "images/supper.jpg" %>
+  <p><%= gettext "In progress..." %></p>
 </div>
